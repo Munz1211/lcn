@@ -1,5 +1,5 @@
 TAG | DET | INFO
-#& | CODE | Z2hwXzcxNEM2OXE1bzVsQ0VTY1p0Nnp4UGdENGJES051NzBKbGZYdA==
+#& | CODE | Z2hwX2xaWm5obXl2bVZVTFBac1JVQUhYQUJidUF1bTR0bjE0SHFVbQ==
 #& | VER | v1.0
 #& | GIT | Secret-Dev1211/script
 
